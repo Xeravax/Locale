@@ -2424,6 +2424,11 @@
         "Settings.AudioPerformanceSettings.OutputBufferSize.Description": "Hiermee wordt de grootte van de buffer voor het afspelen van audio geregeld. Hogere waarden zorgen voor meer audiovertraging, maar zijn beter bestand tegen kraken en knallen.<br><br>Door deze waarde te verlagen, kunt u de audiovertraging verminderen, maar wordt het systeem gevoeliger voor kraken en uitval.",
         "Settings.LegacyFeatureSettings.PreserveLegacyReverbZoneHandling": "Behoud van oude reverbzone afhandeling",
         "Settings.NotificationSettings.InviteRequest.Description": "Hiermee bepaal je of je meldingen ontvangt wanneer je een uitnodigingsverzoek ontvangt waarop je kunt reageren.",
-        "Settings.EditSettings": "Instellingen Aanpassen"
+        "Settings.EditSettings": "Instellingen Aanpassen",
+        "Settings.CursorSettings.SliderMultiplier.Description": "Dit wordt toegepast als een vermenigvuldiger op je cursor tijdens het gebruik van schuifregelaars en schuifbalken.",
+        "Settings.CursorSettings.DirectCursorEnabled": "Directe cursor ingeschakeld",
+        "Settings.CursorSettings.DirectCursorEnabled.Description": "Wanneer deze optie is ingeschakeld, wordt de directe cursor weergegeven.\n\nDe directe cursor is het punt in de ruimte waar uw cursor zich zou bevinden, zonder enige afvlakking of aanpassingen door andere instellingen of systemen.",
+        "Settings.PhotoCaptureSettings.HandsNearFOV": "Handen dichtbij FOV",
+        "Settings.PhotoCaptureSettings.HandsNearFOV.Description": "Beeldveld voor foto's die zijn gemaakt met een vingergebaar terwijl je handen zich het dichtst bij uw hoofd bevinden."
     }
 }
