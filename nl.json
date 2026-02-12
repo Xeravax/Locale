@@ -2429,6 +2429,12 @@
         "Settings.CursorSettings.DirectCursorEnabled": "Directe cursor ingeschakeld",
         "Settings.CursorSettings.DirectCursorEnabled.Description": "Wanneer deze optie is ingeschakeld, wordt de directe cursor weergegeven.\n\nDe directe cursor is het punt in de ruimte waar uw cursor zich zou bevinden, zonder enige afvlakking of aanpassingen door andere instellingen of systemen.",
         "Settings.PhotoCaptureSettings.HandsNearFOV": "Handen dichtbij FOV",
-        "Settings.PhotoCaptureSettings.HandsNearFOV.Description": "Beeldveld voor foto's die zijn gemaakt met een vingergebaar terwijl je handen zich het dichtst bij uw hoofd bevinden."
+        "Settings.PhotoCaptureSettings.HandsNearFOV.Description": "Beeldveld voor foto's die zijn gemaakt met een vingergebaar terwijl je handen zich het dichtst bij uw hoofd bevinden.",
+        "Settings.EditSettings.ConfirmComponentDestroy.Description": "Wanneer ingeschakeld, wordt je om bevestiging gevraagd voordat je een component in de inspector vernietigt. Dit helpt voorkomen dat je ze per ongeluk vernietigt door een verkeerde klik.",
+        "Settings.EditSettings.ConfirmSlotDestroy": "Bevesting verwijderen slots",
+        "Settings.EditSettings.ConfirmSlotDestroy.Description": "Wanneer ingeschakeld, wordt je om bevestiging gevraagd wanneer je slots vernietigt met de ontwikkelaarstool. Dit kan voorkomen dat objecten per ongeluk worden vernietigd wanneer je verkeerd klikt.",
+        "Settings.CursorSettings": "Aanwijzer instellingen",
+        "Settings.CursorSettings.BaseCursorSize": "Basis aanwijzer groote",
+        "Settings.CursorSettings.BaseCursorSize.Description": "Dit zet de basis aanwijzer grootte. Wij adviseren deze instelling eerst op te zetten, voordat je de ander aanpost omdat hun grootte relatief is op deze."
     }
 }
