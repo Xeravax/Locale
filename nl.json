@@ -2435,6 +2435,20 @@
         "Settings.EditSettings.ConfirmSlotDestroy.Description": "Wanneer ingeschakeld, wordt je om bevestiging gevraagd wanneer je slots vernietigt met de ontwikkelaarstool. Dit kan voorkomen dat objecten per ongeluk worden vernietigd wanneer je verkeerd klikt.",
         "Settings.CursorSettings": "Aanwijzer instellingen",
         "Settings.CursorSettings.BaseCursorSize": "Basis aanwijzer groote",
-        "Settings.CursorSettings.BaseCursorSize.Description": "Dit zet de basis aanwijzer grootte. Wij adviseren deze instelling eerst op te zetten, voordat je de ander aanpost omdat hun grootte relatief is op deze."
+        "Settings.CursorSettings.BaseCursorSize.Description": "Dit zet de basis aanwijzer grootte. Wij adviseren deze instelling eerst op te zetten, voordat je de ander aanpost omdat hun grootte relatief is op deze.",
+        "Settings.InteractiveCameraAudioSettings": "Geluid",
+        "Settings.InteractiveCameraAudioSettings.RenderOwnVoiceOnCamera": "Je eigen stem naar de camera sturen",
+        "Settings.InteractiveCameraAudioSettings.RenderOwnVoiceOnCamera.Description": "Wanneer de audio-uitvoer voor de interactieve camera wordt gescheiden naar een eigen audioapparaat, bepaalt dit of de camera uw eigen stem hoort of niet.<br><br>Dit is handig om jouw eigen stem volledig ruimtelijk weer te geven, zoals andere gebruikers in de wereld deze zouden horen.<br><br>Zorg ervoor dat je microfoonopname in uw opnamesoftware uitschakelt wanneer deze optie is ingeschakeld.",
+        "Settings.VideoStreamingServicesSettings": "Video streaming diensten",
+        "Settings.VideoStreamingServicesSettings.UseCookiesFromBrowser": "Gebruik Cookies Van Browser",
+        "Settings.VideoStreamingServicesSettings.UseCookiesFromBrowser.Description": "Als YouTube- en andere servicevideo's niet worden geladen, selecteer dan de browser die jij doorgaans gebruikt om cookies te laden wanneer je die video's ophaalt. Dit vergroot de kans dat de video's succesvol worden geladen.",
+        "Settings.GaussianSplatQualitySettings": "Gaussiaanse Splat-weergavekwaliteit",
+        "Settings.GaussianSplatQualitySettings.SortMegaOperationsPerCamera": "Mega-operaties per camera sorteren",
+        "Settings.GaussianSplatQualitySettings.SortMegaOperationsPerCamera.Description": "Bij het renderen van Gaussiaanse splats moeten de splats voor elke camera worden gesorteerd. Momenteel kan deze bewerking behoorlijk zwaar zijn, dus wordt deze over de tijd verspreid om de algehele framerate te verbeteren. <br><br><color=hero.yellow>Verhoog</color> de waarde om het sorteren te versnellen. Dit vermindert artefacten wanneer de kijkhoek rond Gaussiaanse spatten snel wordt gewijzigd.<br><br><color=hero.yellow>Verlaag</color> de waarde om het GPU-gebruik te verminderen als jouw GPU hier moeite mee heeft. Dit zal echter artefacten vergroten wanneer je de kijkhoek snel wijzigt.",
+        "Settings.GaussianSplatQualitySettings.QualityPreset": "Kwaliteits voorinstelling",
+        "Settings.GaussianSplatQualitySettings.QualityPreset.Description": "Dit regelt de kwaliteit van weergegeven gaussiaanse splats en hun VRAM-gebruik. Een hogere kwaliteit gebruikt meer VRAM.<br><br><color=hero.yellow>Zeer laag:</color> ~18,62x kleiner<br><color=hero.yellow>Laag:</color> ~14x kleiner<br><color=hero.yellow>Gemiddeld:</color> ~5,14x kleiner<br><color=hero. yellow>Hoog:</color> ~2,94x kleiner<br><color=hero.yellow>Zeer hoog:</color> Niet gecomprimeerd (origineel)",
+        "Settings.GaussianSplatQualitySettings.MinLocalQuality": "Minimale lokaal gecomprimeerde kwaliteit",
+        "Settings.GaussianSplatQualitySettings.MinLocalQuality.Description": "Voor lokaal geïmporteerde gaussiaanse splats zal de kwaliteit nooit lager zijn dan deze waarde.<br><br>We raden af om deze waarde lager dan Medium in te stellen, omdat lagere kwaliteitsniveaus aanzienlijk intensiever en tijdrovender zijn om te comprimeren en daarom beter in de cloud kunnen worden gecomprimeerd.<br><br>Als je deze waarde instelt op Very High, worden gaussiaanse splats na het importeren veel sneller geladen omdat ze niet hoeven te worden gecomprimeerd, maar dit gaat ten koste van een hoog VRAM-gebruik.",
+        "Settings.GaussianSplatQualitySettings.AdvancedQuality": "Geavanceerde kwaliteitsinstellingen"
     }
 }
